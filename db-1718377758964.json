@@ -1,0 +1,652 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Frank",
+      "phone": "88-272009-229293-3",
+      "email": "Kraig_Tillman0@hotmail.com",
+      "password": "wzVUjtlQU9mhvz8"
+    },
+    {
+      "id": 2,
+      "name": "Rick",
+      "phone": "29-384302-011019-2",
+      "email": "Leanne_Swift@gmail.com",
+      "password": "mJZzN3ki6JUM0bT"
+    },
+    {
+      "id": 3,
+      "name": "Brent",
+      "phone": "82-166885-204283-8",
+      "email": "Daisha.Yundt41@hotmail.com",
+      "password": "qGzBwLtUZNWYQFF"
+    },
+    {
+      "email": "mahamudul@gmail.com",
+      "full_name": "w2",
+      "phone_number": "433242324",
+      "zip_code": "11",
+      "city": "erfw112",
+      "address_2": "efw",
+      "address_1": "wefrf",
+      "id": 4,
+      "password": "$2a$10$ijuylbssP8j3RrwyapuDhO4S6/q2z5lMMmniFFJGvD2aPmMioNVze"
+    },
+    {
+      "email": "mah231amudul@gmail.com",
+      "password": "$2a$10$WoUMh0TqLPrgTkBiUI6oO.j83gSx9X/.YMoVtjBivzFqBCSwWhm4y",
+      "full_name": "ewqrewrwe",
+      "phone_number": "4223112",
+      "address_1": "ewrew",
+      "address_2": "dsfsdads",
+      "country": "Pakistan",
+      "city": "sdfaasd",
+      "zip_code": "2332",
+      "id": 5
+    },
+    {
+      "email": "ma1256hamudul@gmail.com",
+      "password": "$2a$10$lVpNQIsb5uDwIO9vhYuBmu.hUAfknnn00nrTnRrKWDHcCXCvoiJXy",
+      "full_name": "ntjtn",
+      "phone_number": "532675443",
+      "address_1": "gvfggfg",
+      "address_2": "njhhbd",
+      "country": "Pakistan",
+      "city": "dfvgdg",
+      "zip_code": "345654",
+      "id": 6
+    },
+    {
+      "email": "mawqeeamudul@gmail.com",
+      "password": "$2a$10$Ruce3UILN/fyfqjOqSRwe.BSoh4pa9uXjyv3AdrV9uH7BWYjmmyW.",
+      "full_name": "qwefew",
+      "phone_number": "23411232",
+      "address_1": "23423423",
+      "address_2": "32412",
+      "country": "Qatar",
+      "city": "34",
+      "zip_code": "3241",
+      "id": 7
+    },
+    {
+      "email": "mahawqerqewmudul@gmail.com",
+      "password": "$2a$10$p1CfG8OyemJXRnhRNxa76eoCa7WD3E9d6mrDOz2k5Xn0H/u5iSuwy",
+      "full_name": "erewewrweq",
+      "phone_number": "rewqrewr",
+      "address_1": "ewqrqwer",
+      "address_2": "ewqrewr",
+      "country": "Pakistan",
+      "city": "qewrqewr",
+      "zip_code": "ewqrewqrqwe",
+      "id": 8
+    },
+    {
+      "email": "ewrwrul@gmail.com",
+      "password": "$2a$10$5Ek/zfIIkr.WGzOJ6cw8sukJJakAxY0af4YRkuRhc9whfzqqxwYgW",
+      "full_name": "fgsfdsg",
+      "phone_number": "2314322",
+      "address_1": "234234234",
+      "address_2": "324123",
+      "country": "Pakistan",
+      "city": "3241",
+      "zip_code": "234234",
+      "id": 9
+    },
+    {
+      "email": "mahawefqmudul@gmail.com",
+      "password": "$2a$10$a03T28PQu9CeaDVsUgaYjOrNQkH4xbvB.fGDcw/dsAy.mRFI58IPS",
+      "full_name": "frewq",
+      "phone_number": "fwefwefwe",
+      "address_1": "ewfwefwe",
+      "address_2": "wefwefwe",
+      "city": "ewfwefew",
+      "country": "Pakistan",
+      "zip_code": "wefqewfweqf",
+      "id": 10
+    },
+    {
+      "email": "mahaewqfwefmudul@gmail.com",
+      "password": "$2a$10$RwdCECljGXAbtSJoBhcAHOdkCMdGf76pEvfHzgeBJOMKprMW3b7yO",
+      "full_name": "fwqfewf",
+      "phone_number": "24123423",
+      "address_1": "dsfd",
+      "address_2": "fdgfdsagasdg",
+      "city": "fdgfdsgf",
+      "country": "Pakistan",
+      "zip_code": "4332",
+      "id": 11
+    },
+    {
+      "email": "mahamudrqewrewqrul@gmail.com",
+      "password": "$2a$10$g6Qu7BpEnOxG2ztWr6FlDOSdWh0k3PDtD.YgZg3SoWsZl9R5Nfhvi",
+      "full_name": "ererew",
+      "phone_number": "12344112",
+      "address_1": "efdds",
+      "address_2": "adfasdf",
+      "city": "dsafsdf",
+      "country": "Pakistan",
+      "zip_code": "23432",
+      "id": 12
+    },
+    {
+      "email": "ertertul@gmail.com",
+      "password": "$2a$10$CIsqJUYJWXCOWGP2/Mhan.ImsAioKBuiyXhHHajHjil26A/2DcDZ2",
+      "full_name": "DSADEW",
+      "phone_number": "erwtret",
+      "address_1": "retrewt",
+      "address_2": "retrew",
+      "city": "rewtwert",
+      "country": "Pakistan",
+      "zip_code": "rewtwret",
+      "id": 13
+    },
+    {
+      "email": "mahamwgreergerudul@gmail.com",
+      "password": "$2a$10$Ji659hbky9v1YxkzMVRKY.NThLtlrq3AhPRMNLrGf4/ohu71GyjJ2",
+      "full_name": "rgwregwere",
+      "phone_number": "regwerg",
+      "zip_code": "regwerg",
+      "city": "erwgre",
+      "address_2": "erwgre",
+      "address_1": "gwergerw",
+      "id": 14
+    },
+    {
+      "email": "mawshamudul@gmail.com",
+      "full_name": "Mahamudul hasan2",
+      "phone_number": "454454545645",
+      "address_1": "cdwc",
+      "address_2": "dwdwed",
+      "city": "dwedwed",
+      "zip_code": "3212",
+      "id": 15,
+      "password": "$2a$10$bd8NBB6XSRo.h/qLZgvbDuxY3QW/5Rsxcsvkd4ePL3oRfb1E06ow."
+    },
+    {
+      "email": "werqwmudul@gmail.com",
+      "password": "$2a$10$Mr072GvCNzTnUHoX5grcwe/7ghDtY2yT5qyOROQR/452tQA0l.oLW",
+      "full_name": "ewrew",
+      "phone_number": "658676",
+      "address_1": "cnjc",
+      "address_2": "ghfghgf",
+      "city": "hfgdh",
+      "country": "Pakistan",
+      "zip_code": "2354",
+      "id": 16
+    },
+    {
+      "email": "rterqwteqw@gmail.com",
+      "full_name": "trt22",
+      "phone_number": "575857858",
+      "address_1": "jkuyk",
+      "address_2": "uykuyk",
+      "city": "uykyuk",
+      "country": "Pakistan",
+      "zip_code": "5643",
+      "id": 17,
+      "password": "$2a$10$zdeilutNi4JJZnEpcUwRR.FXjgXOUUgJ00B2f0l0ieFEukyDg/IJK"
+    },
+    {
+      "email": "ma435hamudul@gmail.com",
+      "full_name": "ffgregetg",
+      "phone_number": "546543645",
+      "address_1": "fdgfdsg",
+      "address_2": "fdgdfsgg",
+      "city": "fdsgsdfg",
+      "country": "Qatar",
+      "zip_code": "4533",
+      "id": 18,
+      "password": "$2a$10$HhrvQwYitCi3Gqi0dYicjeZtArpEIJLHkV2gCcdLSJHaaNlfZjjla"
+    },
+    {
+      "email": "mahamqewqeudul@gmail.com",
+      "full_name": "dsfgsdagfdg22",
+      "phone_number": "46453654",
+      "address_1": "vfgbdf",
+      "address_2": "bfdsgdfsg",
+      "city": "fdgdsf",
+      "country": "Qatar",
+      "zip_code": "3254",
+      "id": 19,
+      "password": "$2a$10$jcPC4wVPEvT7vF2.9nsj0uIcgEpGSFE2kWtL5.3FnwHlDhmm4RMHe"
+    },
+    {
+      "email": "ma78ihkhamudul@gmail.com",
+      "full_name": "i8hk8ih3",
+      "phone_number": "6875645",
+      "address_1": "78678",
+      "address_2": "68986",
+      "city": "nmhhkm",
+      "country": "Qatar",
+      "zip_code": "7876",
+      "id": 20,
+      "password": "$2a$10$vytNJbdpaz1e/.Cpd0VWbOBjrJxN3anOSRdM10t6FyQF461scAPdi"
+    },
+    {
+      "email": "mafyhamudul@gmail.com",
+      "full_name": "6njun223",
+      "phone_number": "thybvtyhb",
+      "address_1": "hytbvyh",
+      "address_2": "hbyhvb",
+      "city": "yhbvyhvy",
+      "zip_code": "tvyhbyhv",
+      "country": "Pakistan",
+      "id": 21,
+      "password": "$2a$10$W2o4mnAqK5QGl0sz5UsekeVms5mx/lBCsnxo1TQ8DUdTMvz/0/oTK"
+    },
+    {
+      "email": "maererthamudul@gmail.com",
+      "full_name": "etretret112",
+      "phone_number": "4365674534",
+      "address_1": "fdsgdfg",
+      "address_2": "dsfgsdfg",
+      "city": "dsfgsd",
+      "country": "Pakistan",
+      "zip_code": "2365",
+      "id": 22,
+      "password": "$2a$10$tElRJT1KRzs7YPfOZRi/c.aAaMHv7aVqcs/hs.fSiA/g0zyZGqi.K",
+      "c_psw": "123456"
+    },
+    {
+      "email": "merfewrahamudul@gmail.com",
+      "full_name": "h7672323qq",
+      "phone_number": "3676544356",
+      "address_1": "6456",
+      "address_2": "4536456",
+      "city": "63456",
+      "country": "Pakistan",
+      "zip_code": "456435",
+      "id": 23,
+      "password": "$2a$10$56P5oSq1m90F0WacGNTYOu8M58HBNQOIdB2DfGA41BKOqQA95.OYG"
+    },
+    {
+      "email": "mahahumudul@gmail.com",
+      "full_name": "ujbyhtcf11",
+      "phone_number": "79987978",
+      "address_1": "jknmnmnmnm",
+      "address_2": "bkjmjm",
+      "city": "bjmkm",
+      "country": "Pakistan",
+      "zip_code": "6755",
+      "id": 24,
+      "password": "$2a$10$60WGHAWaJk1S0ysLU1VsO.jRgUG4/.OGvDRxPATJp0VrdYlBfM30e"
+    },
+    {
+      "email": "mahamewrqweudul@gmail.com",
+      "password": "$2a$10$BRFlBkk.wh/nm/dB9klKseWg.SXnCgM0jq4ytDesWC/AGw91mDEJ6",
+      "full_name": "ewrfwer",
+      "phone_number": "7475yutrt",
+      "address_1": "dsfgfdg",
+      "address_2": "fdsgsdfg",
+      "city": "dfgfdsg",
+      "country": "Pakistan",
+      "zip_code": "4tr43",
+      "id": 25
+    },
+    {
+      "email": "mahamewrwerudul@gmail.com",
+      "password": "$2a$10$4G7aKE0XIFfKxzAwL3bBQuKF.H90GvsdAO9kUqCPyXGJthA/TxDUe",
+      "full_name": "erewr",
+      "phone_number": "45234",
+      "address_1": "rewr",
+      "address_2": "ewrwer",
+      "city": "ewrwer",
+      "country": "Qatar",
+      "zip_code": "43523",
+      "id": 26
+    }
+  ],
+  "usersAddress": [
+    {
+      "id": 1,
+      "user_id": [
+        1
+      ],
+      "company_name": "Kerluke Group",
+      "country": "Turks and Caicos Islands",
+      "street_address": "8745 Lauren Avenue",
+      "street_address_2nd": "Apt. 583",
+      "City": "San Bruno",
+      "zip_code": "78583"
+    },
+    {
+      "id": 2,
+      "user_id": [
+        1
+      ],
+      "company_name": "Fahey, Schowalter and Schaefer",
+      "country": "Cote d'Ivoire",
+      "street_address": "4403 Chanel Garden",
+      "street_address_2nd": "Suite 942",
+      "City": "St. Louis Park",
+      "zip_code": "75630"
+    },
+    {
+      "id": 3,
+      "user_id": [
+        3
+      ],
+      "company_name": "Nader, Connelly and VonRueden",
+      "country": "Guadeloupe",
+      "street_address": "25333 N Front Street",
+      "street_address_2nd": "Apt. 456",
+      "City": "Las Cruces",
+      "zip_code": "25637-0307"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "whos23e",
+      "image": "https://loremflickr.com/50/30/food"
+    },
+    {
+      "id": 2,
+      "title": "hence",
+      "image": "https://loremflickr.com/50/30/food"
+    },
+    {
+      "id": 3,
+      "title": "until",
+      "image": "https://loremflickr.com/50/30/food"
+    },
+    {
+      "id": 4,
+      "title": "afefter",
+      "image": "https://loremflickr.com/50/30/food"
+    },
+    {
+      "id": 5,
+      "title": "who3se",
+      "image": "https://loremflickr.com/50/30/food"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "category": "where",
+      "title": "provided",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 2,
+      "category": "since",
+      "title": "after",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 3,
+      "category": "since",
+      "title": "which",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 4,
+      "category": "hence",
+      "title": "furthermore",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 5,
+      "category": "hence",
+      "title": "likewise",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 6,
+      "category": "since",
+      "title": "provided",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 7,
+      "category": "where",
+      "title": "or",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 8,
+      "category": "since",
+      "title": "instead",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 9,
+      "category": "after",
+      "title": "provided",
+      "image": "https://loremflickr.com/250/225/food"
+    },
+    {
+      "id": 10,
+      "category": "since",
+      "title": "meanwhile",
+      "image": "https://loremflickr.com/250/225/food"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Talio derideo socius aut conicio tantum fruit.",
+      "price": 16,
+      "image": "https://loremflickr.com/250/258/food",
+      "short_description": "Deficio alii uterque. Curatio aufero tempus ter trepide ait ait degero. Ut cras validus debitis.\nAudax solio subiungo considero conatus culpo despecto amissio harum. Vapulus canis arcesso comparo spiculum apostolus ulciscor autus temperantia somniculosus. Defero denuo fugiat praesentium quibusdam.\nSortitus claudeo perferendis ratione vitium territo bibo terga arceo earum. Abstergo vomica utrum ullam spes ducimus cado dedecor adipiscor. Veniam adulatio praesentium animadverto tenus.",
+      "stocks": 33,
+      "description": "Teres concedo tamen titulus arbor deleniti decimus desino. Vulticulus thorax ager magni. Solus amaritudo amo.\nLaborum sub tergo appositus defaeco usitas quae. Eos tabesco desino cognomen umerus. Cotidie illo traho desparatus viriliter utroque consequuntur candidus turba.\nConcido vesco vapulus curso solutio curo ceno. Carcer capio spiculum averto vicissitudo optio. Veritas stips veritas tabesco statim alius abutor similique callide sublime.",
+      "additional_info": "Teres concedo tamen titulus arbor deleniti decimus desino. Vulticulus thorax ager magni. Solus amaritudo amo.\nLaborum sub tergo appositus defaeco usitas quae. Eos tabesco desino cognomen umerus. Cotidie illo traho desparatus viriliter utroque consequuntur candidus turba.\nConcido vesco vapulus curso solutio curo ceno. Carcer capio spiculum averto vicissitudo optio. Veritas stips veritas tabesco statim alius abutor similique callide sublime.",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Cruentus juice deporto comes.",
+      "price": 50,
+      "image": "https://loremflickr.com/250/258/food",
+      "short_description": "Dolorem crux quo talis. Ambulo sono ventus confero omnis trepide tutis agnosco. Carus laudantium thesaurus pax trado cetera cur.\nConscendo peior substantia antiquus arceo ab. Suadeo canto temporibus ceno. Eligendi vallum theca.\nAmissio admoneo condico amiculum contra omnis. Trado solium amet. Quos cohaero adaugeo acerbitas libero civitas vestigium tabgo.",
+      "stocks": 24,
+      "description": "Quis decet valeo totidem aveho distinctio desolo corporis. Aufero quaerat architecto comparo nam. Fugit summa vinum defessus.\nApprobo comminor cinis casso sol. Taceo apud creber dolorum clementia demum viduo officiis contabesco. Temptatio adsum alveus delinquo autem.\nColo apto quibusdam confugo cursim. Antepono tergeo patria a vobis paens adsidue triumphus amiculum. Cado angustus undique creo cursus eos sit dolores.",
+      "additional_info": "Quis decet valeo totidem aveho distinctio desolo corporis. Aufero quaerat architecto comparo nam. Fugit summa vinum defessus.\nApprobo comminor cinis casso sol. Taceo apud creber dolorum clementia demum viduo officiis contabesco. Temptatio adsum alveus delinquo autem.\nColo apto quibusdam confugo cursim. Antepono tergeo patria a vobis paens adsidue triumphus amiculum. Cado angustus undique creo cursus eos sit dolores.",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "title": "fruit Spectaculum dolor ver .",
+      "price": 100,
+      "image": "https://loremflickr.com/250/258/food",
+      "short_description": "Conturbo theca depopulo volutabrum verto vesper administratio urbs facere. Tam credo thesis eos utique tum civis quasi unde aiunt. Thalassinus nulla decretum comedo cupio vicinus possimus aegrotatio.\nAbsens magnam degenero nobis cedo colligo corporis nemo. Ustulo umbra cavus vestigium denuo vos virtus pel pax. Damnatio inflammatio praesentium clibanus bene stipes deserunt vulpes pariatur.\nDesino supellex ara suus combibo. Tot valens audeo cado paulatim. Est callide pauci valde artificiose desparatus vilitas.",
+      "stocks": 15,
+      "description": "Quaerat distinctio derelinquo super patria deduco spectaculum. Cimentarius audentia denego audax confido caput. Compello curriculum arceo sophismata asperiores blanditiis blanditiis.\nVorax beneficium vespillo depromo. Qui necessitatibus explicabo supplanto aestus voro alii. Coniecto autem deporto laudantium hic capillus amet.\nCumque celer saepe vomito depono coepi contigo tertius. Altus verbera aequitas vis ut taedium ago temporibus. Consectetur ager defaeco absque eum.",
+      "additional_info": "Quaerat distinctio derelinquo super patria deduco spectaculum. Cimentarius audentia denego audax confido caput. Compello curriculum arceo sophismata asperiores blanditiis blanditiis.\nVorax beneficium vespillo depromo. Qui necessitatibus explicabo supplanto aestus voro alii. Coniecto autem deporto laudantium hic capillus amet.\nCumque celer saepe vomito depono coepi contigo tertius. Altus verbera aequitas vis ut taedium ago temporibus. Consectetur ager defaeco absque eum.",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "title": "Vinco juice quam sto adflicto vae adaugeo adulescens expedita tenetur.",
+      "price": 23,
+      "image": "https://loremflickr.com/250/258/food",
+      "short_description": "Canonicus pecco quisquam ait agnosco sortitus. Cernuus cohors nobis derideo solutio cupiditas. Cribro tantillus cogito eveniet quod voluptatem appello cito dedecor cervus.\nVerbum pauci civitas. Vesco cras arma. Charisma enim voveo.\nConiuratio voluptatibus depraedor advenio. Speciosus reprehenderit volo cur. Valeo vivo desidero auctor abundans capillus tenus voluptatem totam inflammatio.",
+      "stocks": 53,
+      "description": "Eos victoria terga una. Tactus volo allatus corrupti alioqui casso torqueo et cruciamentum. Aestas terror ulterius ustilo dicta derideo peccatus crastinus clibanus.\nUbi damno cogito supellex pauci curatio abduco deficio creo. Quam tepidus concedo uxor trado. Temperantia cohibeo animus.\nCubitum vallum toties patior bonus. Altus coniecto vester uberrime damnatio cubitum umerus. Esse catena accommodo decor.",
+      "additional_info": "Eos victoria terga una. Tactus volo allatus corrupti alioqui casso torqueo et cruciamentum. Aestas terror ulterius ustilo dicta derideo peccatus crastinus clibanus.\nUbi damno cogito supellex pauci curatio abduco deficio creo. Quam tepidus concedo uxor trado. Temperantia cohibeo animus.\nCubitum vallum toties patior bonus. Altus coniecto vester uberrime damnatio cubitum umerus. Esse catena accommodo decor.",
+      "category_id": 3
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Defaeco vereor tui decor adduco ciminatio patruus collum.",
+      "date": "2024-05-26T15:30:51.279Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Enim pariatur suggero vestigium triumphus supellex statim deludo. Thorax versus accedo viridis. Deprecator timidus cohaero vespillo communis debitis crastinus.\nCarbo dolorum vilicus tollo argumentum accusantium supplanto alius tabula. Praesentium coruscus curia vigilo attero reiciendis antepono comprehendo speculum. Arto nobis amicitia.\nPeccatus natus totus accusator complectus pecco. Clamo uxor demum incidunt audio damno. Cubo agnosco tutamen vereor anser.",
+      "category_type": "wobbly"
+    },
+    {
+      "id": 2,
+      "title": "Omnis claustrum soluta placeat abbas vallum cunae cupressus.",
+      "date": "2024-05-26T13:56:26.170Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Ascisco virga amaritudo appositus sophismata comparo conventus communis aiunt. Tero deduco damno contigo. Atrox error constans stultus.\nDistinctio ambulo aperio cras. Deludo creator stips. Vetus uterque amaritudo universe avarus voluptate aperiam collum demonstro nobis.\nArcus deludo vinco volubilis tempora comis tantum alo cohibeo. Volutabrum depulso claro. Derideo video tabgo fuga non unus curia ulciscor coerceo.",
+      "category_type": "antique"
+    },
+    {
+      "id": 3,
+      "title": "Beatae turpis bardus desolo id.",
+      "date": "2024-05-26T13:39:43.820Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Allatus trucido utpote arbor bardus vulticulus ascit occaecati dedico. Tondeo corpus veritatis recusandae supplanto tero vacuus vilis consequatur tristis. Carbo ubi in vorago.\nTalio nulla attonbitus. Curatio necessitatibus talus voluptates creptio mollitia. Coniecto natus vinitor ustilo crudelis audentia ago dens.\nSolium dicta stips corona comitatus velut sollicito cupiditate admitto attero. Accusator tyrannus cavus cursim subvenio astrum aequus iste. Tribuo caecus administratio vulgo tremo thesis auxilium sumo.",
+      "category_type": "sophisticated"
+    },
+    {
+      "id": 4,
+      "title": "Congregatio arx temperantia appono aliqua.",
+      "date": "2024-05-26T12:29:53.431Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Cena nihil antea. Aegrotatio una denuncio desidero solutio vilitas theologus avaritia. Adipisci admoveo tollo spargo conculco communis aranea tyrannus vere claudeo.\nSolus aptus tactus vereor demo volutabrum. Totidem denique attollo acervus cursus. Aiunt ipsam auditor infit armarium cruciamentum vulnero thesis summisse conscendo.\nTheologus administratio tabella alter. Basium aeneus catena adipisci eveniet perferendis. Tribuo artificiose corroboro.",
+      "category_type": "incredible"
+    },
+    {
+      "id": 5,
+      "title": "Adicio coma vado optio vallum voro dignissimos cerno.",
+      "date": "2024-05-26T13:49:51.341Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Decerno apostolus vos vox aer neque rem. Voluptates caterva quis adsuesco consuasor vere. Subito molestiae spoliatio.\nTego quas studio vix ipsa. Certus allatus uxor advenio verto tricesimus. Subiungo vulgaris vorax adstringo.\nTribuo communis canis molestiae. Utrimque soleo dolores. Commemoro comes torrens vivo cometes vigor communis.",
+      "category_type": "solid"
+    },
+    {
+      "id": 6,
+      "title": "Aureus decerno viscus sapiente.",
+      "date": "2024-05-26T20:43:27.112Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Cupiditas voluptas ademptio dolor ciminatio tempus decretum cuppedia. Abundans adstringo caveo varius surculus decumbo certus patior vae quo. Officiis corona canto quam.\nDedecor argentum vinitor tenax arceo bellum supellex. Neque admitto quod denuncio. Venia suscipio culpa.\nVindico deinde aegrus consuasor. Caelestis fuga defendo sto vinum deduco. Cumque voluptatem abstergo vir vehemens denuncio verecundia.",
+      "category_type": "improbable"
+    },
+    {
+      "id": 7,
+      "title": "Amplexus cena videlicet acceptus.",
+      "date": "2024-05-26T10:19:37.085Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Substantia porro vergo. Debitis talio derideo aggredior arx tenetur accusamus. Suffoco deleniti vado vos acies acceptus templum.\nDelinquo asporto teneo corporis abscido deleo vinitor cohibeo conspergo credo. Alo utrimque tantillus vitium blanditiis conforto suffragium caelestis. Varietas amplexus candidus tertius deporto angustus saepe suus.\nTimidus abstergo tribuo. Recusandae caelum animadverto neque deporto aestas aeger. Vaco sponte tollo mollitia bestia dignissimos auxilium cruentus callide.",
+      "category_type": "pitiful"
+    },
+    {
+      "id": 8,
+      "title": "Supra voluntarius cruciamentum clam adipiscor ab vero curto curis.",
+      "date": "2024-05-26T20:36:12.146Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Appositus vulpes velut alias. Addo textus arbor tot accusantium cultellus illo degusto vilicus. Vorax deporto ad repellendus solutio tunc tenax alter cicuta.\nSuadeo aegrus tredecim velum alter catena arca summisse contego aeternus. Tibi cohibeo bos. Suadeo decretum umquam cum.\nConiecto aer vado cito amor conor. Atrox certus templum communis aeneus voluptatum carus cavus carbo tepesco. Corrigo demens tenetur laudantium defaeco tamdiu uxor omnis victus solum.",
+      "category_type": "impish"
+    },
+    {
+      "id": 9,
+      "title": "Allatus cras tempora alter.",
+      "date": "2024-05-27T01:34:40.462Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Volubilis vesica curia cibo utrimque arcus. Occaecati nam vorax deduco vereor conduco vereor debitis substantia. Balbus desipio trucido avarus.\nError civis ceno ex comitatus. Auctus comitatus torrens anser surgo tamquam porro. Creator adaugeo alius.\nAmplus canto temptatio vulariter quas capio. Terminatio umbra cavus doloribus voluptatibus communis pariatur subvenio auctor. Succedo vulpes conscendo admiratio thorax depono.",
+      "category_type": "spanish"
+    },
+    {
+      "id": 10,
+      "title": "Aegrotatio omnis centum officiis absum deporto tam coaegresco arcus clementia.",
+      "date": "2024-05-26T22:19:33.447Z",
+      "image": "https://loremflickr.com/2200/700/food",
+      "body": "Audacia sperno cunabula voco. Commemoro tempore teneo. Quo vindico occaecati.\nTerebro illum blanditiis excepturi solitudo desolo tolero provident tenetur comitatus. Cultura despecto eos uberrime tricesimus sed. Tabernus comprehendo peior arcesso qui impedit.\nConfero pax votum templum tepidus basium. Quos curatio torrens volup defaeco adflicto color. Auxilium virgo aduro aegre tutis alias aestus ancilla tametsi votum.",
+      "category_type": "blushing"
+    }
+  ],
+  "tags": [
+    "trusty",
+    "likely",
+    "competent",
+    "calculating",
+    "unsightly",
+    "witty",
+    "organic",
+    "insubstantial",
+    "bad",
+    "murky"
+  ],
+  "carts": [
+    {
+      "title": "Cruentus juice deporto comes.",
+      "price": 50,
+      "quantity": 44,
+      "total_price": 2200,
+      "stock": 24,
+      "user_id": 1,
+      "product_id": 2,
+      "id": 1
+    }
+  ],
+  "wish-list": [
+    {
+      "product_id": 1,
+      "user_id": 1,
+      "id": 1
+    },
+    {
+      "product_id": 2,
+      "user_id": 1,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "post_id": 1,
+      "user_id": 1,
+      "parent_id": null,
+      "content": "Proident voluptate et dolore ut excepteur.",
+      "id": 1
+    },
+    {
+      "post_id": 1,
+      "user_id": 1,
+      "parent_id": 1,
+      "content": "Dolore aute est quis consequat nisi eu proident sit cillum esse fugiat sint sit.",
+      "id": 2
+    },
+    {
+      "user_id": 1,
+      "post_id": 1,
+      "parent_id": 1,
+      "content": "qew",
+      "id": 3
+    },
+    {
+      "user_id": 1,
+      "post_id": 1,
+      "parent_id": 1,
+      "content": "ythtyh",
+      "id": 4
+    }
+  ],
+  "order": [
+    {
+      "email": "mahamudul@gmail.com",
+      "full_name": "w2",
+      "phone_number": "433242324",
+      "zip_code": "11",
+      "city": "erfw112",
+      "address_2": "efw",
+      "address_1": "wefrf",
+      "payment_method": "bank",
+      "order_id": 1717994102715,
+      "id": 1
+    }
+  ],
+  "orderItem": [
+    {
+      "user_id": 4,
+      "product_id": 2,
+      "quantity": 1,
+      "price": 50,
+      "order_id": 1,
+      "id": 1
+    },
+    {
+      "user_id": 4,
+      "product_id": 3,
+      "quantity": 1,
+      "price": 100,
+      "order_id": 1,
+      "id": 2
+    }
+  ]
+}
